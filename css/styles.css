@@ -1,0 +1,39 @@
+/* header styles */
+
+.nav_link {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #3C3B3D;
+}
+
+.header_btn_first {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #0A6647;
+    border: none;
+    background-color: inherit;
+    margin-right: 24px;
+}
+
+.header_btn_first:last-child {
+    margin-right: 0;
+}
+
+.header_btn_second {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF ;
+    border: 2px solid #0A6647;
+    border-radius: 4px;
+    background-color: #0A6647;
+    padding: 10px 18px;
+}

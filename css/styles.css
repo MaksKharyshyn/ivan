@@ -75,5 +75,47 @@
     padding: 3px 115px;
 }
 
+/* fast track styles */
+
+.fast_track_title {
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 55.88px;
+    text-align: center;
+    color: #3C3B3D;
+}
+
+.fast_track_sub_text {
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 34.08px;
+    text-align: center;
+    color: #3C3B3D;    
+}
+
+.fast_track_sub_title {
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 55.88px;
+    text-align: center;
+    color: #3C3B3D;
+}
+
+.fast_track_text {
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: 300;
+    line-height: 34.08px;
+    text-align: center;
+    color: #3C3B3D;
+}
+
+
+
+
+
 
 

@@ -37,3 +37,43 @@
     background-color: #0A6647;
     padding: 10px 18px;
 }
+
+/* first step styles */
+
+.first_step {
+    background-image: url(/images/first_step.jpg);
+}
+
+.first_step_title {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+    color: #124E3B;
+}
+
+.first_step_text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+.first_step_btn {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.88px;
+    text-align: left;
+    color: #0A0A0A;
+    border-radius: 4px;
+    background-color:  #F2CDCE;
+    border: none;
+    padding: 3px 115px;
+}
+
+
+

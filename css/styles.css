@@ -194,6 +194,132 @@
     color: #3C3B3D;
 }
 
+/* marketplace styles */
+
+.marketplace_title {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.marketplace_text {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+/* seen styles */
+
+.seen_title {
+    font-family: Roboto;
+    font-size: 43px;
+    font-weight: 700;
+    line-height: 44px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+/*sign up styles */
+
+.sign_up_title {
+    font-family: Roboto;
+    font-size: 39px;
+    font-weight: 700;
+    line-height: 55.88px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.sign_up_btn {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.88px;
+    text-align: left;
+    color: #0A0A0A;  
+    background-color: #F2CDCE;
+    border-radius: 4px;
+    padding: 3px 25px;
+}
+
+/* footer styles */
+
+.footer_contact {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+.footer_link {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+.footer_btn {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 17.16px;
+    text-align: left;
+    color: #FBF9F6;
+    border-radius: 4px;   
+    background-color: #3C3B3D;
+    padding: 0 12px;
+}
+
+.candidates_title {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+.candidates_link, .employers_link, .company_link {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.88px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+.privacy_text {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+.privarcy_sub_text {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.96px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+
+
+
+
 
 
 

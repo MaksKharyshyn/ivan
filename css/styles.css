@@ -113,6 +113,88 @@
     color: #3C3B3D;
 }
 
+/* search styles */
+
+.search_text {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.search_sub_text {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.search_btn {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.88px;
+    text-align: left;
+    color: #0A0A0A;
+    border-radius: 4px;
+    background-color: #F2CDCE;
+    padding: 3px 25px;
+}
+
+/* find styles */
+
+.find_title {
+    font-family: Roboto;
+    font-size: 39px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    color: #000000DE;
+}
+
+/* new way */
+
+.new_way_title {
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 55.88px;
+    text-align: center;
+    color: #3C3B3D;
+}
+
+.new_way_text {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34.08px;
+    text-align: center;
+    color: #3C3B3D;
+}
+
+.new_way_text {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+.new_way_sub_text {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.08px;
+    text-align: left;
+    color: #3C3B3D;
+}
+
+
 
 
 
